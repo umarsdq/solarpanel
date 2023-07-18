@@ -1,7 +1,7 @@
 # solarpanel
 ## Calculating daily wattage from solar power using the location retrieved from the IP address of the user.
 
-### Research paper on the importance of solar power:
+### The Importance of Solar Power:
 
 Today, climate change remains to be one of the world’s biggest problems. To help bring about a gradual change and solution, we must slowly begin to change its biggest contributors, such as the transport sector, industry, and homes. The average daily wattage of a UK household lies between 8-10 kWh. Therefore, a renewable energy source must be effective and produce enough energy to meet this requirement. There are many renewable energy options to consider, such as solar radiation, wind power and bioenergy. I will be discussing the use of all three renewable options and determining which is the best for powering a home.
 
